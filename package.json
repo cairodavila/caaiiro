@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "name": "link-na-bio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "servidor_local_ou_hot_reload",
+    "build:css": "tailwind build styles/styles.css -o output.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
